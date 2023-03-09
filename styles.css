@@ -25,7 +25,7 @@ header{
 }
 
 header a{
-  color: #ff0000;
+  color: #575757;
   text-decoration: none;
   text-transform: uppercase;
   font-size: 16px;
@@ -66,7 +66,7 @@ header a:hover{
   background:url('../img/headerbg.jpg') no-repeat center;
   background-size: cover;
   text-align: center;
-  color: #ffffff;
+  color: #575757;
 }
 
 #showcase h1{
@@ -81,7 +81,7 @@ header a:hover{
 /* Newsletter */
 #newsletter{
   padding: 15px;
-  color: #ffffff;
+  color: #575757;
   background: #353637;
 }
 
