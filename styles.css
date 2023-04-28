@@ -18,7 +18,7 @@ ul{
 /* Header */
 header{
   background: #353637;
-  color: #ff0000;
+  color: #00ff00;
   padding-top: 30px;
   min-height: 70px;
   border-bottom: #32a0c2 3px solid;
@@ -51,7 +51,7 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color: #32a0c2;
+  color: #023020;
   font-weight: bold;
 }
 
